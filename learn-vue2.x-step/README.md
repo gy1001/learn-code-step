@@ -1,4 +1,4 @@
-# vue-learn-code
+# learn-vue2.x-step
 
 ## Project setup
 ```
